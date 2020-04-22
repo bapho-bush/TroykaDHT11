@@ -1,0 +1,20 @@
+{
+  "name": "TroykaDHT11",
+  "keywords": "dht11, troyka, troykadht11",
+  "description": "Библиотека для Arduino, позволяющая считывать данные с датчика DHT11 (Troyka-модуль) с помощью Arduino без необходимости задумываться о деталях протокола.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bapho-bush/TroykaDHT11.git"
+  },
+  "version": "1.0",
+  "authors": {
+    "name": "Igor",
+    "url": "https://github.com/igor605ds"
+  },
+  "exclude": [
+    ".github",
+    "extras"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
