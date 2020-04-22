@@ -9,3 +9,7 @@ TroykaDHT11
 Скачайте последний релиз библиотеки:
 
 <a class="btn btn-sm btn-primary" href="https://github.com/bapho-bush/TroykaDHT11/archive/1.0.zip">Скачать библиотеку TroykaDHT11 </a>
+
+Автор оригинальной библиотеки
+===========
+https://github.com/igor605ds
